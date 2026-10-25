@@ -1,3 +1,11 @@
+![效果示意](https://github.com/algerss-ssj/ai-passport-firmware/releases/download/v3/preview-720x960.png)
+
+> 配图为按固件实际绘制参数（15 列 × 16 行 / 16px / #00FF41 六档衰减）**离线渲染的效果示意**，非实机拍摄。
+
+![社区展示图](https://github.com/algerss-ssj/ai-passport-firmware/releases/download/v3/poster-community.png)
+
+---
+
 # AI PASSPORT 数字瀑布固件 v3（小智 2.5.2 · ESP32-C3）
 
 > 基于官方 [xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) 2.5.2，板型 `folotoy/ai-passport`，
